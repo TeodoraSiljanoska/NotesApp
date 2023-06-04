@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/my_primary"
+    tools:context=".MainActivity">
+
+    <!-- Adjust the positions and sizes of the views as per landscape orientation -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title_bar_layout">
+
+        <!-- Adjust the positions and sizes of the views as per landscape orientation -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/page_title"
+            android:text="@string/notes"
+            android:textSize="32sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+
+        <!-- Adjust the positions and sizes of the views as per landscape orientation -->
+        <Button
+            android:id="@+id/menu_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="@string/menu"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            />
+    </RelativeLayout>
+
+    <!-- Adjust the positions and sizes of the views as per landscape orientation -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recycler_view"
+        android:layout_below="@+id/title_bar_layout"/>
+
+    <!-- Adjust the positions and sizes of the views as per landscape orientation -->
+    <Button
+        android:id="@+id/add_note_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="16dp"
+        android:text="@string/add"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        />
+
+</RelativeLayout>

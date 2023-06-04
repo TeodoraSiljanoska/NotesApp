@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="hello">Zdravo</string>
+    <string name="start">Da pocneme</string>
+    <string name="create_account">Kreiraj profil</string>
+    <string name="already_have_account">Veke imas profil?</string>
+    <string name="login">Najavi se</string>
+    <string name="welcome">Dobredojde nazad</string>
+    <string name="login_btn">Najavi Se</string>
+    <string name="dont_have_account">Nemas profil?</string>
+    <string name="add">Dodaj</string>
+    <string name="add_new_note">Dodaj nova</string>
+    <string name="title">Naslov</string>
+    <string name="content">Sodrzina</string>
+    <string name="notes">Beleski</string>
+    <string name="note_title">naslov na beleskata</string>
+    <string name="long_note_content">Ova moze da bide dolga sodrzina na beleska</string>
+    <string name="menu">Meni</string>
+    <string name="delete_note">Izbrisi beleska</string>
+    <string name="invalid_email">E-mailot e nevaliden!</string>
+    <string name="invalid_pass_length">Dolzinata na lozinkata e nevalidna</string>
+    <string name="pass_not_matched">Lozinkite ne se sovpagaat</string>
+    <string name="email_not_verified">Emailot ne e verifikuvan, Verifikuvajte go svojot email</string>
+    <string name="logout">Odjavi se</string>
+    <string name="edit_your_note">"Uredi "</string>
+    <string name="title_required">Neophoden e naslov</string>
+    <string name="note_added_successfully">Uspesno dodadena beleska</string>
+    <string name="failed_adding_note">Greska vo dodavanje na beleskata</string>
+    <string name="note_deleted_successfully">Uspesno izbrisana beleska</string>
+    <string name="failed_deleting_note">Greska vo brisenjeto na beleskata</string>
+    <string name="choose">Izberi</string>
+    <string name="anonymous">Anonimno</string>
+    <string name="login_types">Najava</string>
+    <string name="emailandpass">Email i Lozinka</string>
+    <string name="gmail">Gmail</string>
+    <string name="facebook">Facebook</string>
+    <string name="signin_google">Najava so Google</string>
+    <string name="welcome1">Dobredojde</string>
+    <string name="signed_out">Odjaveni ste</string>
+    <string name="auth_failed">Greska pri avtentikacija</string>
+</resources>

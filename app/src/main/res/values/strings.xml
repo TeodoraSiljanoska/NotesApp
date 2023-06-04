@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="hello">Hello!</string>
+    <string name="start">Let\'s get started!</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="login_btn">LogIn</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="add">Add</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="notes">Notes</string>
+    <string name="note_title">note title</string>
+    <string name="long_note_content">This can be note content that can be long</string>
+    <string name="menu">Menu</string>
+    <string name="delete_note">Delete note</string>
+    <string name="invalid_email">E-mail is invalid!</string>
+    <string name="invalid_pass_length">Password length is invalid</string>
+    <string name="pass_not_matched">Password not matched!</string>
+    <string name="email_not_verified">Email not verified, Please verify your email</string>
+    <string name="logout">Logout</string>
+    <string name="edit_your_note">Edit your note</string>
+    <string name="title_required">Title is required</string>
+    <string name="note_added_successfully">Note added successfully</string>
+    <string name="failed_adding_note">Failed while adding note</string>
+    <string name="note_deleted_successfully">Note deleted successfully</string>
+    <string name="failed_deleting_note">Failed while deleting note</string>
+    <string name="choose">Choose</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="login_types">Login</string>
+    <string name="emailandpass">Email and Password</string>
+    <string name="gmail">Gmail</string>
+    <string name="facebook">Facebook</string>
+    <string name="signin_google">Sign in with Google</string>
+    <string name="welcome1">Welcome</string>
+    <string name="signed_out">You are signed out</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="signin_facebook">Sign in with Facebook</string>
+    <string name="fb_login_cancelled">Facebook login cancelled</string>
+    <string name="fb_login_error">Facebook login error</string>
+    <string name="you_are_signed_out">You are signed out</string>
+    <string name="facebook_app_id">3539927656242116</string>
+
+
+</resources>
