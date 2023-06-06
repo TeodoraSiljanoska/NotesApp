@@ -22,11 +22,12 @@
         android:theme="@style/Theme.NotesApp"
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
-        <!-- Facebook Login activity -->
+        <!-- Facebook Login activity
         <activity
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/app_name" />
+        -->
 
       <!--<activity
             android:name="com.example.notesapp.FacebookLogin"
